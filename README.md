@@ -1,0 +1,129 @@
+- [1\.21 Paintings backport](https://modrinth.com/mod/P86fl1mK) by Leonxkingx
+- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
+- [Accessories](https://modrinth.com/mod/jtmvUHXj) by Blodhgarm, chyzman, Dr\.Zeal
+- [Accessories Trinkets Compat Layer](https://modrinth.com/mod/TkWgV1AW) by Blodhgarm
+- [Almanac for Spyglass Astronomy](https://modrinth.com/mod/rhj2L1Jf) by Acrogenous
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
+- [Armor Stand Poses](https://modrinth.com/mod/vuA4mu4C) by legopitstop
+- [Auditory](https://modrinth.com/mod/UafsfA4K) by Sydokiddo \(Developer\), AmberSand \(Additional Sounds\)
+- [Automobility](https://modrinth.com/mod/rqIsPf9F) by FoundationGames
+- [Backported Wolves](https://modrinth.com/mod/yasXoQpR) by EmilSG
+- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
+- [Better Block Sounds](https://modrinth.com/mod/BSD4Ohjo) by Ordana
+- [Better Clouds](https://modrinth.com/mod/5srFLIaK) by Qendolin
+- [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) by Lortseam
+- [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) by TheCSDev
+- [Blåhaj](https://modrinth.com/mod/Yl6uPZkr) by hibi, infoplayerstart
+- [Botarium](https://modrinth.com/mod/2u6LRnMa) by CodexAdrian
+- [Bounced\!](https://modrinth.com/mod/2mlOZXZr) by Kessoku Tea Time, KrLite
+- [Chalk](https://modrinth.com/mod/OrtjXTCH) by DaFuqs, mortuusars
+- [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
+- [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
+- [Clean F3](https://modrinth.com/mod/5lvjfaRs) by tyrannus
+- [Cloth Config v11](https://modrinth.com/mod/9s6osm5g) by shedaniel
+- [Collar Trinkets](https://modrinth.com/mod/HuZ2oZ78) by igalaxy
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) by RelativityMC, ishland
+- [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
+- [Controlify](https://modrinth.com/mod/DOUdJVEm) by isXander
+- [Controlling For Fabric](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
+- [CoolRain](https://modrinth.com/mod/iDyqnQLT) by Jaiz
+- [Crawl](https://modrinth.com/mod/H1JOVjhn) by fewizz, McSkinnerOG, Chocohead
+- [Create](https://modrinth.com/mod/Xbc0uyRg) by Fabricators of Create, Creators of Create
+- [Create Jetpack](https://modrinth.com/mod/UbFnAd4l) by possible\_triangle
+- [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) by possible\_triangle
+- [Create: Armor Trims](https://modrinth.com/mod/Q4F90RHI) by Ordana
+- [Create: Estrogen](https://modrinth.com/mod/HhIJW8n1) by Author: Mayaqq
+- [Create: Jetpack Curios](https://modrinth.com/mod/BBhCMftF) by robinfrt
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) by The Railways Team
+- [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
+- [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ) by Joosh, EterDelta
+- [Cultural Delights Fabric](https://modrinth.com/mod/9Gy8sTXS) by MrSterner
+- [Debugify](https://modrinth.com/mod/QwxR6Gcd) by isXander
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
+- [Distraction Free Recipes \(EMI\)](https://modrinth.com/mod/gbJLUhZP) by Toni
+- [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) by PieKing1215
+- [Duckling](https://modrinth.com/mod/jkb861Ih) by Artist \- Frogipher, Dev \- ThatGravyBoat
+- [Dumpling's Delight Rewrapped](https://modrinth.com/mod/DqKMBArS) by Joshcraft2002
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665, LostLuma
+- [EMI](https://modrinth.com/mod/fRiHVvU7) by Emi
+- [Ears](https://modrinth.com/mod/mfzaZK3Z) by unascribed
+- [Eating Animation](https://modrinth.com/mod/rUgZvGzi) by theone\_ss, spusik\_, PinkGoosik, DoctorNight1
+- [Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv) by Alex Nijjar, Joosh
+- [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
+- [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) by Superkat32
+- [Exposure](https://modrinth.com/mod/hB899VmG) by mortuusars
+- [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) by Kneelawk
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
+- [Farmer's Delight](https://modrinth.com/mod/7vxePowz) by MehVahdJukaar, MerchantPug
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
+- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
+- [Friends&Foes](https://modrinth.com/mod/POQ2i9zu) by Faboslav
+- [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [Geophilic](https://modrinth.com/mod/hl5OLM95) by bebebea\_loste
+- [Glowing Torchflower](https://modrinth.com/mod/1S4LxcvL) by NikitaCartes
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
+- [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) by Luke100000
+- [Indium](https://modrinth.com/mod/Orvt0mRa) by comp500
+- [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
+- [Jade Addons](https://modrinth.com/mod/fThnVRli) by Snownee
+- [Joy of Painting](https://modrinth.com/mod/YOs4tZea) by xerca
+- [Keybind Fix](https://modrinth.com/mod/vuWNr14n) by fzzyhmstrs
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
+- [Language Reload](https://modrinth.com/mod/uLbm7CG6) by Jerozgen
+- [LazyDFU](https://modrinth.com/mod/hvFnDODi) by tuxed
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) by JellySquid, 2No2Name
+- [Lodestone Recipe Backport](https://modrinth.com/mod/XjCJ94YK) by Sorcell
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) by FX \- PR0CESS
+- [MidnightLib](https://modrinth.com/mod/codAaoxh) by Motschen, TeamMidnightDust
+- [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, TerraformersMC
+- [Mod Name Tooltips](https://modrinth.com/mod/q26C3Ryq) by Quintinity
+- [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) by Mehvahdjukaar
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt
+- [Moonlight](https://modrinth.com/mod/twkfQtEc) by MehVahdJukaar
+- [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS
+- [Night Lights](https://modrinth.com/mod/s7pMb898) by Joosh and samgj15
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
+- [Noisium](https://modrinth.com/mod/KuNKN7d2) by Steveplays28
+- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
+- [Panda Plushies\!](https://modrinth.com/mod/VLpCVEoM) by bebebea\_loste
+- [Panorama](https://www.curseforge.com/projects/440465) by SWDTeam
+- [Panorama Screens](https://modrinth.com/mod/4k0QM1rC) by juancarloscp52\(Im\_JC\)
+- [Particle Rain](https://modrinth.com/mod/nrikgvxm) by PigCart
+- [Particular](https://modrinth.com/mod/B1CcCd9h) by Chai
+- [Point Blank](https://modrinth.com/mod/og4KPYmA) by vic4games, vic4gamesteam
+- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) by Hurricaaane \(Ha3\), Sollace
+- [Pumpkin Pie Delight](https://modrinth.com/mod/AhcCiL7x) by Chai
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
+- [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ) by ThatGravyBoat
+- [Ribbits](https://modrinth.com/mod/8YcE8y4T) by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios
+- [Rustic Delight](https://modrinth.com/mod/foa4fGIH) by PhantomWing
+- [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
+- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) by MisterPeModder
+- [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
+- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
+- [SplashChanger](https://modrinth.com/mod/YHxZ7hct) by MrSam7K
+- [SplashFox](https://modrinth.com/mod/a59NK2Js) by LX86
+- [Spyglass Astronomy](https://modrinth.com/mod/EdBSdqge) by Nettakrim
+- [Starlight](https://modrinth.com/mod/H8CaAYZC) by Spottedleaf
+- [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) by SuperMartijn642
+- [Sushi Bar](https://modrinth.com/mod/tr2Mv6ke) by Chai
+- [TCD Commons API](https://modrinth.com/mod/Eldc1g37) by TheCSDev
+- [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) by Trivaxy
+- [Tumbleweed](https://www.curseforge.com/projects/245028) by konwboy
+- [TxniLib](https://modrinth.com/mod/vBbPDuOs) by Toni
+- [Verdant Vibes](https://modrinth.com/mod/NmDRyAF4) by Pandarix
+- [Visuality](https://modrinth.com/mod/rI0hvYcd) by PinkGoosik
+- [Wakes](https://modrinth.com/mod/dlNu0RQY) by Goby56
+- [World Play Time](https://modrinth.com/mod/YkKeggdl) by Khajiitos
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
+- [miku plushies](https://modrinth.com/mod/LnqZM7XU) by 4ny
+- [oωo](https://modrinth.com/mod/ccKDOlHs) by glisco, BasiqueEvangelist, Noaaan
