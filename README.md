@@ -1,3 +1,7 @@
+# ottercraft modlist 
+
+Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.0:
+
 - [1\.21 Paintings backport](https://modrinth.com/mod/P86fl1mK) by Leonxkingx
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) by tr7zw
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) by Blodhgarm, chyzman, Dr\.Zeal
