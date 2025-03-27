@@ -140,5 +140,6 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [World Play Time](https://github.com/Khajiitos/WorldPlayTime) by Khajiitos
 - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) by YUNGNICKYOUNG
 - YetAnotherConfigLib by isXander
+- [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
 - [miku plushies](https://modrinth.com/mod/miku-plushies) by 4ny
 - oωo by glisco, BasiqueEvangelist, Noaaan
