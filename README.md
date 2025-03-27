@@ -18,6 +18,7 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Better Clouds](https://github.com/Qendolin/better-clouds) by Qendolin
 - Better Mount HUD by Lortseam
 - [Better Statistics Screen](https://github.com/TheCSMods) by TheCSDev
+- [Better Trim Tooltips](https://modrinth.com/mod/WMoUFmXc) by Andrew6rant \(Andrew Grant\)
 - [Blåhaj](https://hibiscus.pet/mods/blahaj) by hibi, infoplayerstart
 - Botarium by CodexAdrian
 - [Bounced\!](https://modrinth.com/mod/bounced) by Kessoku Tea Time, KrLite
@@ -122,7 +123,6 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Shulker Box Tooltip](https://minecraft.curseforge.com/projects/shulkerboxtooltip) by MisterPeModder
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric) by JellySquid \(jellysquid3\)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
-- [Some More Blocks](https://modrinth.com/mod/R1LxuhQe) by Seface Studios
 - SplashChanger by MrSam7K
 - [SplashFox](https://modrinth.com/splashfox) by LX86
 - Spyglass Astronomy by Nettakrim
