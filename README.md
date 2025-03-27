@@ -1,147 +1,146 @@
 # ottercraft modlist 
 
-Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.0:
+Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.0.1:
 
-- [1\.21 Paintings backport](https://www.curseforge.com/members/leonxkingx/projects) [1\.0\.0]
-- [Accessories](https://wispforest.io/) [1\.0\.0\-beta\.47\+1\.20\.1]
-- Accessories Trinkets Compat Layer [3\.8\.1\+beta\.14]
-- [Almanac for Spyglass Astronomy](https://fabricmc.net/) [0\.6\.1]
-- [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) [2\.5\.1\+mc1\.20]
-- [Architectury](https://architectury.github.io/architectury-documentations/) [9\.2\.14]
-- [Armor Stand Poses](https://legopitstop.weebly.com) [1\.0\.0]
-- [Auditory](https://www.curseforge.com/minecraft/mc-mods/auditory) [0\.0\.6\-1\.20\.1]
-- Automobility [0\.4\.2\+1\.20\.1\-fabric]
-- [Backpacked](https://mrcrayfish.com/mods?id=backpacked) [3\.0\.0\-beta\.9]
-- [Backported Wolves](https://modrinth.com/mod/backported-wolves) [1\.1\.0\-1\.19\.3\-1\.20\.4]
-- BadOptimizations [2\.2\.1]
-- [Better Block Sounds](https://www.curseforge.com/minecraft/mc-mods/better-block-sounds) [1\.20\.1\-0\.1\.3]
-- [Better Clouds](https://github.com/Qendolin/better-clouds) [1\.3\.27\+1\.20\.1\-fabric]
-- Better Mount HUD [1\.2\.2]
-- [Better Statistics Screen](https://github.com/TheCSMods) [3\.12\.6\+fabric\-1\.20\.1]
-- [Better Trim Tooltips](https://modrinth.com/mod/WMoUFmXc) [1\.0\.1]
-- [Blåhaj](https://hibiscus.pet/mods/blahaj) [0\.3\.0]
-- Botarium [2\.3\.4]
-- [Bounced\!](https://modrinth.com/mod/bounced) [4\.1\.3]
-- [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric) [2\.2\.4]
-- Chat Heads [0\.13\.13]
-- Chat Sounds [1\.1\.9]
-- Cherished Worlds [6\.1\.7\+1\.20\.1]
-- [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) [1\.3\.146]
-- Clean F3 [0\.4\.9]
-- [Cloth Config v11](https://minecraft.curseforge.com/projects/cloth-config) [11\.1\.136]
-- Collar Trinkets [1\.0\.0\+1\.20\.1]
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) [0\.2\.0\+alpha\.11\.16]
-- [Configured](https://mrcrayfish.com/mods?id=configured) [2\.2\.3]
-- [Continuity](https://modrinth.com/mod/continuity) [3\.0\.0\+1\.20\.1]
-- Controlify [2\.0\.2\+1\.20\.1\-fabric]
-- [Controlling For Fabric](https://minecraft.curseforge.com/projects/controlling) [12\.0\.2]
-- CoolRain [1\.1\.0\-1\.20\.1]
-- CoroUtil [1\.20\.1\-1\.3\.7]
-- [Crawl](https://www.curseforge.com/minecraft/mc-mods/crawl) [0\.12\.0]
-- Create [0\.5\.1\-j\-build\.1631\+mc1\.20\.1]
-- Create Jetpack [4\.3\.0]
-- Create Slice & Dice [3\.3\.1]
-- Create: Armor Trims [2\.0\.1]
-- [Create: Estrogen](https://modrinth.com/mod/estrogen) [4\.3\.3b\+1\.20\.1\-fabric]
-- [Create: Jetpack Curios](https://www.curseforge.com/members/robinfrt/projects) [1\.2\.0]
-- Create: Steam 'n' Rails [1\.6\.9\+fabric\-mc1\.20\.1]
-- Creeper Overhaul [3\.0\.2]
-- Critters and Companions [2\.2\.2]
-- [Cultural Delights Fabric](https://fabricmc.net/) [1\.0\.5\+1\.20\.1]
-- [Debugify](https://isxander.dev) [1\.20\.1\+2\.0]
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons) [2\.3\.0\-b]
-- [Distraction Free Recipes \(EMI\)](https://github.com/txnimc/DistractionFreeRecipes/) [1\.2\.1]
-- [Drip Sounds](https://github.com/PieKing1215/DripSounds) [0\.4\.0]
-- [Duckling](https://www.curseforge.com/minecraft/mc-mods/duckling) [4\.0\.0]
-- [Dumpling's Delight Rewrapped](https://modrinth.com/mod/dumplings-delight-rewrapped) [1\.20\.1\-1\.3\.0\+fabric]
-- [Dynamic FPS](https://dapprgames.com/mods) [3\.9\.2]
-- EMI [1\.1\.20\+1\.20\.1\+fabric]
-- [EMI Loot](https://modrinth.com/mod/qbbO7Jns) [0\.7\.5\+1\.20\.1\+fix1\+fabric]
-- [Ears](https://ears.unascribed.com/) [1\.4\.7]
-- [Eating Animation](https://www.curseforge.com/members/theone_ss) [1\.20\+1\.9\.61]
-- [Emoji Type](https://modrinth.com/mod/emoji-type) [2\.2\.3\+1\.20\.4]
-- [Emotecraft](https://kosmx.gitbook.io/emotecraft/) [2\.2\.7\-b\.build\.50]
-- Enderman Overhaul [1\.0\.4]
-- [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) [0\.9\+1\.20]
-- [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) [2\.4\.1]
-- [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) [6\.2\.9]
-- [EntityCulling](https://modrinth.com/mod/entityculling) [1\.7\.3]
-- Explosive Enhancement [1\.3\.2\-1\.20\-1\.20\.4]
-- [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure) [1\.7\.10]
-- [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) [0\.4\.7\+1\.20\.1]
-- [Fabric API](https://fabricmc.net) [0\.92\.5\+1\.20\.1]
-- [Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) [1\.13\.2\+kotlin\.2\.1\.20]
-- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated) [1\.20\.1\-2\.3\.0\+refabricated]
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) [6\.0\.1]
-- [Forge Config API Port](https://github.com/Fuzss/forgeconfigapiport) [8\.0\.2]
-- [Framework](https://mrcrayfish.com/mods?id=framework) [0\.7\.12]
-- [Friends&Foes](https://modrinth.com/mod/POQ2i9zu) [3\.0\.9]
-- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.6\.7\+1\.20\.1]
-- [GeckoLib 4](https://www.curseforge.com/minecraft/mc-mods/geckolib) [4\.7\.1\.2]
-- [Geophilic](https://modrinth.com/datapack/geophilic) [3\.3]
-- [Glowing Torchflower](https://github.com/NikitaCartes/Glowing-Torchflower) [1\.3\.0]
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) [1\.5\.0\+1\.20\.4]
-- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) [1\.2\.2\+1\.20\.1]
-- [Immersive Lanterns](https://github.com/txnimc/ImmersiveLanterns/) [1\.0\.4]
-- [Indium](https://modrinth.com/mod/indium) [1\.0\.36\+mc1\.20\.1]
-- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [11\.13\.1\+fabric]
-- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric) [5\.4\.0\+fabric]
-- [Joy of Painting](https://ercanserteli.com/joy-of-painting/) [NONE]
-- [Keybind Fix](https://www.curseforge.com/minecraft/mc-mods/keybind-fix) [1\.0\.0]
-- [LambDynamicLights](https://lambdaurora.dev/projects/lambdynamiclights) [4\.1\.0\+1\.20\.1]
-- [Language Reload](https://modrinth.com/mod/language-reload) [1\.7\.3\+1\.20\.1]
-- [LazyDFU](https://github.com/astei/lazydfu) [0\.1\.3]
-- [Lithium](https://jellysquid.me/projects/) [0\.11\.3]
-- [Lodestone Recipe Backport](https://modrinth.com/datapack/lodestone-recipe-backport) [2\.0]
-- [Memory Leak Fix](https://github.com/fxmorin/memoryleakfix) [1\.1\.5]
-- [MidnightLib](https://www.midnightdust.eu/) [1\.4\.1]
-- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) [1\.20\-2\.0\.6]
-- [Mod Menu](https://modrinth.com/mod/modmenu) [7\.2\.2]
-- Mod Name Tooltips [1\.20\.1\+0\.1\.0]
-- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) [1\.15]
-- [ModernFix](https://modrinth.com/mod/modernfix) [5\.20\.2\+mc1\.20\.1]
-- [Moonlight](https://www.curseforge.com/minecraft/mc-mods/selene) [1\.20\-2\.13\.79]
-- [More Culling](https://github.com/fxmorin/moreculling) [1\.20\.4\-0\.24\.0]
-- [Night Lights](https://www.curseforge.com/minecraft/mc-mods/nightlights) [1\.1]
-- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) [1\.20\.1\-v2\.2\.2]
-- [Noisium](https://modrinth.com/mod/noisium) [2\.3\.0\+mc1\.20\-1\.20\.1]
-- [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations) [1\.9\.2]
-- [Panda Plushies\!](https://modrinth.com/mod/panda-plushies) [1\.1]
-- [Panorama](https://swdteam.com) [1\.3\.0]
-- [Panorama Screens](https://www.curseforge.com/minecraft/mc-mods/panorama-screens) [1\.0\+fabric\+mc1\.20]
-- Particle Rain [3\.0\.6\-1\.20]
-- [Particular](https://modrinth.com/mod/particular/) [1\.1\.1]
-- [Point Blank](https://www.curseforge.com/minecraft/mc-mods/geckolib) [1\.9\.6]
-- Presence Footsteps [1\.10\.1\+1\.20\.1]
-- [Pumpkin Pie Delight](https://modrinth.com/mod/pumpkin-pie-delight/) [1\.0\.1]
-- Radiant Gear [2\.1\.6\+1\.20\.1]
-- [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options) [1\.7\.2\+mc1\.20\.1\-build\.101]
-- [Resourceful Lib](https://resourcefulbees.com) [2\.1\.29]
-- [Resourcefulconfig](https://resourcefulbees.com) [2\.1\.3]
-- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits) [1\.20\.1\-Fabric\-3\.0\.4]
-- [Rustic Delight](https://www.curseforge.com/minecraft/mc-mods/rustic-delight) [1\.3\.2]
-- [Scholar](https://www.curseforge.com/minecraft/mc-mods/scholar) [1\.1\.4]
-- [Searchables](https://minecraft.curseforge.com/projects/searchables) [1\.0\.3]
-- [Shulker Box Tooltip](https://minecraft.curseforge.com/projects/shulkerboxtooltip) [4\.0\.4\+1\.20\.1]
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric) [0\.5\.13\+mc1\.20\.1]
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra) [0\.5\.9\+mc1\.20\.1]
-- SplashChanger [1\.1\.5]
-- [SplashFox](https://modrinth.com/splashfox) [1\.1\.2]
-- Spyglass Astronomy [1\.0\.15\-mc1\.20\.1]
-- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [1\.1\.2\+fabric\.dbc156f]
-- [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) [1\.1\.8\+a]
-- [Sushi Bar](https://modrinth.com/mod/sushi-bar/) [0\.2\.2\+1\.20]
-- [TCD Commons API](https://github.com/TheCSDev) [3\.12\.3\+fabric\-1\.20\.1]
-- [Tiny Item Animations](https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations) [1\.20\-1\.1]
-- Tumbleweed [0\.5\.5]
-- [TxniLib](https://github.com/txnimc/TxniLib/) [1\.0\.23]
-- [Verdant Vibes](https://curseforge.com/minecraft/mc-mods/verdantvibes) [1\.0\.1\-1\.20\.1]
-- [Visuality](https://modrinth.com/mod/visuality) [0\.7\.1\+1\.20]
-- [Wakes](https://modrinth.com/mod/wakes) [0\.4\.0\+1\.20\.1]
-- What Are They Up To [1\.20\.1\-1\.2\.3]
-- [World Play Time](https://github.com/Khajiitos/WorldPlayTime) [1\.2\.3]
-- [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) [1\.20\-Fabric\-4\.0\.6]
-- YetAnotherConfigLib [3\.6\.6\+1\.20\.1\-fabric]
-- [e4mc](https://modrinth.com/mod/qANg5Jrr) [5\.3\.0]
-- [miku plushies](https://modrinth.com/mod/miku-plushies) [1\.5\-1\.20\.1]
-- oωo [0\.11\.2\+1\.20]
+- [1\.21 Paintings backport](https://www.curseforge.com/members/leonxkingx/projects) by Leonxkingx
+- [Accessories](https://wispforest.io/) by Blodhgarm, chyzman, Dr\.Zeal
+- Accessories Trinkets Compat Layer by Blodhgarm
+- [Almanac for Spyglass Astronomy](https://fabricmc.net/) by Acrogenous
+- [AppleSkin](https://minecraft.curseforge.com/projects/appleskin) by squeek502
+- [Architectury](https://architectury.github.io/architectury-documentations/) by shedaniel
+- [Armor Stand Poses](https://legopitstop.weebly.com) by legopitstop
+- [Auditory](https://www.curseforge.com/minecraft/mc-mods/auditory) by Sydokiddo \(Developer\), AmberSand \(Additional Sounds\)
+- Automobility by FoundationGames
+- [Backpacked](https://mrcrayfish.com/mods?id=backpacked) by MrCrayfish
+- [Backported Wolves](https://modrinth.com/mod/backported-wolves) by EmilSG
+- BadOptimizations by Thosea
+- [Better Block Sounds](https://www.curseforge.com/minecraft/mc-mods/better-block-sounds) by Ordana
+- [Better Clouds](https://github.com/Qendolin/better-clouds) by Qendolin
+- Better Mount HUD by Lortseam
+- [Better Statistics Screen](https://github.com/TheCSMods) by TheCSDev
+- [Better Trim Tooltips](https://modrinth.com/mod/WMoUFmXc) by Andrew6rant \(Andrew Grant\)
+- [Blåhaj](https://hibiscus.pet/mods/blahaj) by hibi, infoplayerstart
+- Botarium by CodexAdrian
+- [Bounced\!](https://modrinth.com/mod/bounced) by Kessoku Tea Time, KrLite
+- [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric) by DaFuqs, mortuusars
+- Chat Heads by dzwdz, Fourmisain
+- Chat Sounds by AlurienFlame, davidalb97, Felix14\-v2, Binero, Jerozgen
+- Cherished Worlds by Illusive Soulworks
+- [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) by pop4959
+- Clean F3 by tyrannus
+- [Cloth Config v11](https://minecraft.curseforge.com/projects/cloth-config) by shedaniel
+- Collar Trinkets by igalaxy
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) by RelativityMC, ishland
+- [Configured](https://mrcrayfish.com/mods?id=configured) by MrCrayfish
+- [Continuity](https://modrinth.com/mod/continuity) by PepperCode1
+- Controlify by isXander
+- [Controlling For Fabric](https://minecraft.curseforge.com/projects/controlling) by Jaredlll08
+- CoolRain by Jaiz
+- CoroUtil by Corosus
+- [Crawl](https://www.curseforge.com/minecraft/mc-mods/crawl) by fewizz, McSkinnerOG, Chocohead
+- Create by Fabricators of Create, Creators of Create
+- Create Jetpack by possible\_triangle
+- Create Slice & Dice by possible\_triangle
+- Create: Armor Trims by Ordana
+- [Create: Estrogen](https://modrinth.com/mod/estrogen) by Author: Mayaqq
+- [Create: Jetpack Curios](https://www.curseforge.com/members/robinfrt/projects) by robinfrt
+- Create: Steam 'n' Rails by The Railways Team
+- Creeper Overhaul by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
+- Critters and Companions by Joosh, EterDelta
+- [Cultural Delights Fabric](https://fabricmc.net/) by MrSterner
+- [Debugify](https://isxander.dev) by isXander
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Distraction Free Recipes \(EMI\)](https://github.com/txnimc/DistractionFreeRecipes/) by Toni
+- [Drip Sounds](https://github.com/PieKing1215/DripSounds) by PieKing1215
+- [Duckling](https://www.curseforge.com/minecraft/mc-mods/duckling) by Artist \- Frogipher, Dev \- ThatGravyBoat
+- [Dumpling's Delight Rewrapped](https://modrinth.com/mod/dumplings-delight-rewrapped) by Joshcraft2002
+- [Dynamic FPS](https://dapprgames.com/mods) by juliand665, LostLuma
+- EMI by Emi
+- [EMI Loot](https://modrinth.com/mod/qbbO7Jns) by fzzyhmstrs, lxly9 \(art\), unilock \(ports\)
+- [Ears](https://ears.unascribed.com/) by unascribed
+- [Eating Animation](https://www.curseforge.com/members/theone_ss) by theone\_ss, spusik\_, PinkGoosik, DoctorNight1
+- [Emoji Type](https://modrinth.com/mod/emoji-type) by CyborgCabbage, Norbiros
+- [Emotecraft](https://kosmx.gitbook.io/emotecraft/) by KosmX
+- Enderman Overhaul by Alex Nijjar, Joosh
+- [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) by FoundationGames
+- [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) by Traben
+- [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) by Traben
+- [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
+- Explosive Enhancement by Superkat32
+- [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure) by mortuusars
+- [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) by Kneelawk
+- [Fabric API](https://fabricmc.net) by FabricMC
+- [Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) by FabricMC
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated) by MehVahdJukaar, MerchantPug
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811
+- [Forge Config API Port](https://github.com/Fuzss/forgeconfigapiport) by Fuzs
+- [Framework](https://mrcrayfish.com/mods?id=framework) by MrCrayfish
+- [Friends&Foes](https://modrinth.com/mod/POQ2i9zu) by Faboslav
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
+- [GeckoLib 4](https://www.curseforge.com/minecraft/mc-mods/geckolib) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [Geophilic](https://modrinth.com/datapack/geophilic) by bebebea\_loste
+- [Glowing Torchflower](https://github.com/NikitaCartes/Glowing-Torchflower) by NikitaCartes
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RK\_01
+- [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) by Luke100000
+- [Immersive Lanterns](https://github.com/txnimc/ImmersiveLanterns/) by Toni
+- [Indium](https://modrinth.com/mod/indium) by comp500
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) by Snownee
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric) by Snownee
+- [Joy of Painting](https://ercanserteli.com/joy-of-painting/) by xerca
+- [Keybind Fix](https://www.curseforge.com/minecraft/mc-mods/keybind-fix) by fzzyhmstrs
+- [LambDynamicLights](https://lambdaurora.dev/projects/lambdynamiclights) by LambdAurora
+- [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
+- [LazyDFU](https://github.com/astei/lazydfu) by tuxed
+- [Lithium](https://jellysquid.me/projects/) by JellySquid, 2No2Name
+- [Lodestone Recipe Backport](https://modrinth.com/datapack/lodestone-recipe-backport) by Sorcell
+- [Memory Leak Fix](https://github.com/fxmorin/memoryleakfix) by FX \- PR0CESS
+- [MidnightLib](https://www.midnightdust.eu/) by Motschen, TeamMidnightDust
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) by Mehvahdjukaar, Bonusboni, Gooigipunch, Plantkillable
+- [Mod Menu](https://modrinth.com/mod/modmenu) by Prospector, haykam821, TerraformersMC
+- Mod Name Tooltips by Quintinity
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) by Mehvahdjukaar
+- [ModernFix](https://modrinth.com/mod/modernfix) by embeddedt
+- [Moonlight](https://www.curseforge.com/minecraft/mc-mods/selene) by MehVahdJukaar
+- [More Culling](https://github.com/fxmorin/moreculling) by FX \- PR0CESS
+- [Night Lights](https://www.curseforge.com/minecraft/mc-mods/nightlights) by Joosh and samgj15
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) by Aizistral
+- [Noisium](https://modrinth.com/mod/noisium) by Steveplays28
+- [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations) by tr7zw
+- [Panda Plushies\!](https://modrinth.com/mod/panda-plushies) by bebebea\_loste
+- [Panorama Screens](https://www.curseforge.com/minecraft/mc-mods/panorama-screens) by juancarloscp52\(Im\_JC\)
+- Particle Rain by PigCart
+- [Particular](https://modrinth.com/mod/particular/) by Chai
+- [Point Blank](https://www.curseforge.com/minecraft/mc-mods/geckolib) by vic4games, vic4gamesteam
+- Presence Footsteps by Hurricaaane \(Ha3\), Sollace
+- [Pumpkin Pie Delight](https://modrinth.com/mod/pumpkin-pie-delight/) by Chai
+- Radiant Gear by Illusive Soulworks
+- [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options) by FlashyReese
+- [Resourceful Lib](https://resourcefulbees.com) by ThatGravyBoat, Epic\_Oreo
+- [Resourcefulconfig](https://resourcefulbees.com) by ThatGravyBoat
+- [Ribbits](https://www.curseforge.com/minecraft/mc-mods/ribbits) by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios
+- [Rustic Delight](https://www.curseforge.com/minecraft/mc-mods/rustic-delight) by PhantomWing
+- [Scholar](https://www.curseforge.com/minecraft/mc-mods/scholar) by mortuusars
+- [Searchables](https://minecraft.curseforge.com/projects/searchables) by Jaredlll08
+- [Shulker Box Tooltip](https://minecraft.curseforge.com/projects/shulkerboxtooltip) by MisterPeModder
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric) by JellySquid \(jellysquid3\)
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
+- SplashChanger by MrSam7K
+- [SplashFox](https://modrinth.com/splashfox) by LX86
+- Spyglass Astronomy by Nettakrim
+- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) by Spottedleaf
+- [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) by SuperMartijn642
+- [Sushi Bar](https://modrinth.com/mod/sushi-bar/) by Chai
+- [TCD Commons API](https://github.com/TheCSDev) by TheCSDev
+- [Tiny Item Animations](https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations) by Trivaxy
+- Tumbleweed by konwboy
+- [TxniLib](https://github.com/txnimc/TxniLib/) by Toni
+- [Verdant Vibes](https://curseforge.com/minecraft/mc-mods/verdantvibes) by Pandarix
+- [Visuality](https://modrinth.com/mod/visuality) by PinkGoosik
+- [Wakes](https://modrinth.com/mod/wakes) by Goby56
+- What Are They Up To by Corosus
+- [World Play Time](https://github.com/Khajiitos/WorldPlayTime) by Khajiitos
+- [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) by YUNGNICKYOUNG
+- YetAnotherConfigLib by isXander
+- [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
+- [miku plushies](https://modrinth.com/mod/miku-plushies) by 4ny
+- oωo by glisco, BasiqueEvangelist, Noaaan
