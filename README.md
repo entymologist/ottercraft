@@ -1,6 +1,6 @@
 # ottercraft modlist 
 
-Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.0.1:
+Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.1.0:
 
 - [1\.21 Paintings backport](https://www.curseforge.com/members/leonxkingx/projects) by Leonxkingx
 - [Accessories](https://wispforest.io/) by Blodhgarm, chyzman, Dr\.Zeal
@@ -124,7 +124,7 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Shulker Box Tooltip](https://minecraft.curseforge.com/projects/shulkerboxtooltip) by MisterPeModder
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric) by JellySquid \(jellysquid3\)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
-- SplashChanger by MrSam7K
+- [SplashChanger](https://modrinth.com/mod/YHxZ7hct) by MrSam7K
 - [SplashFox](https://modrinth.com/splashfox) by LX86
 - Spyglass Astronomy by Nettakrim
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) by Spottedleaf
