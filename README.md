@@ -131,7 +131,7 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Sushi Bar](https://modrinth.com/mod/tr2Mv6ke) by Chai
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) by TheCSDev
 - [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) by Trivaxy
-- Tumbleweed by konwboy
+- [Tumbleweed](https://www.curseforge.com/minecraft/mc-mods/tumbleweed) by konwboy
 - [TxniLib](https://modrinth.com/mod/vBbPDuOs) by Toni
 - [Verdant Vibes](https://modrinth.com/mod/NmDRyAF4) by Pandarix
 - [Visuality](https://modrinth.com/mod/rI0hvYcd) by PinkGoosik
