@@ -1,17 +1,18 @@
 # ottercraft modlist 
 
-Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.1.3:
+Here are all the mods that ottercraft uses, as well as links to their sources, as of version 1.3.0:
 
 - [1\.21 Paintings backport](https://modrinth.com/mod/P86fl1mK) by Leonxkingx
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) by Blodhgarm, chyzman, Dr\.Zeal
 - [Accessories Trinkets Compat Layer](https://modrinth.com/mod/TkWgV1AW) by Blodhgarm
 - [Almanac for Spyglass Astronomy](https://modrinth.com/mod/rhj2L1Jf) by Acrogenous
+- [Antique Atlas](https://modrinth.com/mod/Y5Ve4Ui4) by Hunternif, tyra314, Sisby folk\. Contributions by Kenkron, asiekierka, Haven King, TheCodeWarrior, osipxd, coolAlias, TehNut, lumiscosity, frodolon
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
 - [Armor Stand Poses](https://modrinth.com/mod/vuA4mu4C) by legopitstop
 - [Auditory](https://modrinth.com/mod/UafsfA4K) by Sydokiddo \(Developer\), AmberSand \(Additional Sounds\)
 - [Automobility](https://modrinth.com/mod/rqIsPf9F) by FoundationGames
-- [Backpacked](https://mrcrayfish.com/mods?id=backpacked) by MrCrayfish
+- [Backpacked](https://www.curseforge.com/projects/352835) by MrCrayfish
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
 - [Better Block Sounds](https://modrinth.com/mod/BSD4Ohjo) by Ordana
 - [Better Clouds](https://modrinth.com/mod/5srFLIaK) by Qendolin
@@ -21,16 +22,14 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Blåhaj](https://modrinth.com/mod/Yl6uPZkr) by hibi, infoplayerstart
 - [Botarium](https://modrinth.com/mod/2u6LRnMa) by CodexAdrian
 - [Bounced\!](https://modrinth.com/mod/2mlOZXZr) by Kessoku Tea Time, KrLite
-- [Chalk](https://modrinth.com/mod/OrtjXTCH) by DaFuqs, mortuusars
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
 - [Chat Sounds](https://modrinth.com/mod/GO9EQa8a) by AlurienFlame, davidalb97, Felix14\-v2, Binero, Jerozgen
-- [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) by Illusive Soulworks
 - [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
 - [Clean F3](https://modrinth.com/mod/5lvjfaRs) by tyrannus
 - [Cloth Config v11](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Collar Trinkets](https://modrinth.com/mod/HuZ2oZ78) by igalaxy
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) by RelativityMC, ishland
-- [Configured](https://mrcrayfish.com/mods?id=configured) by MrCrayfish
+- [Configured](https://www.curseforge.com/projects/457570) by MrCrayfish
 - [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
 - [Controlify](https://modrinth.com/mod/DOUdJVEm) by isXander
 - [Controlling For Fabric](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
@@ -48,7 +47,6 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ) by Joosh, EterDelta
 - [Cultural Delights Fabric](https://modrinth.com/mod/9Gy8sTXS) by MrSterner
 - [Debugify](https://modrinth.com/mod/QwxR6Gcd) by isXander
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
 - [Distraction Free Recipes \(EMI\)](https://modrinth.com/mod/gbJLUhZP) by Toni
 - [Drip Sounds](https://modrinth.com/mod/T8MMXTpr) by PieKing1215
 - [Duckling](https://modrinth.com/mod/jkb861Ih) by Artist \- Frogipher, Dev \- ThatGravyBoat
@@ -73,7 +71,7 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Farmer's Delight](https://modrinth.com/mod/7vxePowz) by MehVahdJukaar, MerchantPug
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
-- [Framework](https://mrcrayfish.com/mods?id=framework) by MrCrayfish
+- [Framework](https://www.curseforge.com/projects/549225) by MrCrayfish
 - [Friends&Foes](https://modrinth.com/mod/POQ2i9zu) by Faboslav
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
@@ -83,8 +81,6 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) by Luke100000
 - [Immersive Lanterns](https://modrinth.com/mod/vskzdsyT) by Toni
 - [Indium](https://modrinth.com/mod/Orvt0mRa) by comp500
-- [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
-- [Jade Addons](https://modrinth.com/mod/fThnVRli) by Snownee
 - [Joy of Painting](https://modrinth.com/mod/YOs4tZea) by xerca
 - [Keybind Fix](https://modrinth.com/mod/vuWNr14n) by fzzyhmstrs
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
@@ -105,6 +101,7 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [Noisium](https://modrinth.com/mod/KuNKN7d2) by Steveplays28
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
+- [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) by Nyfaria
 - [Panda Plushies\!](https://modrinth.com/mod/VLpCVEoM) by bebebea\_loste
 - [Panorama Screens](https://modrinth.com/mod/4k0QM1rC) by juancarloscp52\(Im\_JC\)
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by PigCart
@@ -126,18 +123,18 @@ Here are all the mods that ottercraft uses, as well as links to their sources, a
 - [SplashChanger](https://modrinth.com/mod/YHxZ7hct) by MrSam7K
 - [SplashFox](https://modrinth.com/mod/a59NK2Js) by LX86
 - [Spyglass Astronomy](https://modrinth.com/mod/EdBSdqge) by Nettakrim
-- [Starlight](https://modrinth.com/mod/H8CaAYZC) by Spottedleaf
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) by SuperMartijn642
+- [Surveyor Map Framework](https://modrinth.com/mod/4KjqhPc9) by Sisby folk\. Contributions by Ampflower, falkreon, jaskarth, Garden System
 - [Sushi Bar](https://modrinth.com/mod/tr2Mv6ke) by Chai
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) by TheCSDev
 - [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) by Trivaxy
-- [Tumbleweed](https://www.curseforge.com/minecraft/mc-mods/tumbleweed) by konwboy
+- [Tumbleweed](https://www.curseforge.com/projects/245028) by konwboy
 - [TxniLib](https://modrinth.com/mod/vBbPDuOs) by Toni
 - [Verdant Vibes](https://modrinth.com/mod/NmDRyAF4) by Pandarix
+- [Villager Hats](https://modrinth.com/mod/vghf63Ct) by PinkGoosik
 - [Visuality](https://modrinth.com/mod/rI0hvYcd) by PinkGoosik
 - [Wakes](https://modrinth.com/mod/dlNu0RQY) by Goby56
 - [What Are They Up To](https://modrinth.com/mod/AtB5mHky) by Corosus
-- [World Play Time](https://modrinth.com/mod/YkKeggdl) by Khajiitos
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) by YUNGNICKYOUNG
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
